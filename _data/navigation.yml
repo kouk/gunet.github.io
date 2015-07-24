@@ -1,0 +1,40 @@
+- title: Αρχή
+  url: "/"
+  side: left
+
+- title: Με μια ματιά
+  url: "/info/"
+  side: left
+
+- title: "Web API"
+  url: "/apis/"
+  side: left
+  dropdown:
+  - title: "Academic ID"
+    url: "/apis/academicid/"
+  - title: "AMKA Services"
+    url: "/apis/amka-services/"
+
+- title: "Λογισμικό"
+  url: "https://github.com/gunet/"
+  side: left
+  dropdown:
+  - title: "Open eClass"
+    url: "https://github.com/gunet/openeclass"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: Blog
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Αναζήτηση"
+  url: "/search/"
+  side: right
+
+- title: "Επικοινωνία"
+  url: "/contact/"
+  side: right
