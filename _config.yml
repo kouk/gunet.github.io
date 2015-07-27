@@ -34,7 +34,7 @@ improve_content: https://github.com/gunet/gunet.github.io/edit/master
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://open.gunet.gr/images/"
+urlimg: "http://open.gunet.gr/images"
 
 
 # Logo size is 600x80 pixels
