@@ -97,7 +97,15 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "GUNet"
-
+  -
+    scope:
+      path: "" 				# an empty string here means all files in the project
+      type: "apis"
+    values:
+      show_meta: true 	# Show metadata beneath all api pages
+      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: "GUNet"
 
 
 #       _   __            _             __  _           
@@ -222,3 +230,9 @@ sass:
 # used in _includes/footer_scripts.html
 
 # tawkto_embed_uri: 
+#
+#
+
+collections:
+  apis:
+      output: true

@@ -13,6 +13,7 @@ image:
     caption_url: "https://unsplash.com/alejandroescamilla"
 categories:
     - apis 
+permalink: "/apis/academicid/"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">

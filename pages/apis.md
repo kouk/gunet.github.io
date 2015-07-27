@@ -8,7 +8,7 @@ header:
 permalink: "/apis/"
 ---
 <ul>
-    {% for post in site.categories.apis %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% for api in site.apis %}
+    <li><a href="{{ site.url }}{{ api.url }}">{{ api.title }}</a></li>
     {% endfor %}
 </ul>
