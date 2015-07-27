@@ -236,3 +236,11 @@ sass:
 collections:
   apis:
       output: true
+
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: gvim --remote-silent

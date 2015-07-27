@@ -1,0 +1,19 @@
+---
+layout: page-fullwidth
+title:
+subheadline: "My post subheadline"
+meta_teaser: "Short teaser for meta header"
+teaser: "Long teaser in html"
+header:
+   image_fullwidth: "amka_splash.png"
+image:
+    thumb:  amka_splash.png
+    homepage: amka_splash.png
+categories:
+    - apis
+---
+## Announcing the latest and greatest
+
+Για τον [AMKA][]
+
+ [AMKA]: http://amka.gr/
