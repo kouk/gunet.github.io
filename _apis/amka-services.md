@@ -132,7 +132,7 @@ JSON-RPC κάνοντας χρήση της γλώσσας Perl. Υποθέτο�
 
     TODO
 
- [AMKA]: http://amka.gr/ "Αριθμός μητρώου κοινωνικών ασφαλίσεων"
+ [AMKA]: http://amka.gr/ "Αριθμός Μητρώου Κοινωνικής Ασφάλισης"
  [JSON-RPC]: http://jsonrpc.org/ "κεντρική σελίδα για τοJSON-RPC"
  [ΗΔΙΚΑ]: http://www.idika.gr "ΗΔΙΚΑ: Ηλεκτρονική Διακυβέρνηση Κοινωνικής Ασφάλισης"
  [REST]: http://wikipedia.org/wiki/REST "Representational State Transfer (Wikipedia)"
