@@ -10,12 +10,12 @@ header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "Νέα"
-    url: 'https://open.gunet.gr/el/blog/'
+    url: 'https://open.gunet.gr/blog/'
     text: 'Μάθετε νέα και εξελίξεις για τις δραστηριότητες της GUNet στον τομέα του open data και open source.'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Ανοικτά Web API"
-    url: 'http://open.gunet.gr/el/apis/'
+    url: 'http://open.gunet.gr/apis/'
     text: 'Η GUNet προσφέρει στα μέλη της πρόσβαση σε web διεπαφές για την εκπλήρωση των στόχων τους. Μάθετε περισσότερα διαβάζοντας το εισαγωγικό κείμενο.'
     image: unsplash_windows_maselskis_302x182.jpg
 widget-3:
