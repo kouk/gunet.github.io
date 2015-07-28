@@ -6,8 +6,8 @@ teaser: "Η GUNet ανακοινώνει την προσφορά ενός νέο
 header:
    image_fullwidth: "amka_splash.png"
 image:
-    thumb:  amka_splash.png
-    homepage: amka_splash.png
+    thumb:  gunet_plus_amka_splash.png
+    homepage: gunet_plus_amka_splash.png
 categories:
     - apis
 ---
