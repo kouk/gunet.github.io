@@ -31,7 +31,7 @@ permalink: "/apis/amka-services/"
 Στα πλαίσια της προσπάθειας μας για την καλύτερη διαλειτουργικότητα
 μεταξύ των οργανισμών της ακαδημαϊκής κοινότητας, και σε συνεργασία με την
 [ΗΔΙΚΑ][], η [GUNet][] παρέχει στα μέλη της μια υπηρεσία επιβεβαίωσης, αναζήτησης και ανάκτησης πληροφοριών
-για τους [Αριθμούς Μητρώου Κοινωνικής Ασφάλισης (ΑΜΚΑ)][ΑΜΚΑ] που είναι υποχρεωτικοί για όλα τα μέλη της Ακαδημαϊκής Κοινότητας.
+για τους [Αριθμούς Μητρώου Κοινωνικής Ασφάλισης (ΑΜΚΑ)][AMKA] που είναι υποχρεωτικοί για όλα τα μέλη της Ακαδημαϊκής Κοινότητας.
 Μέσω της έγκυρης αντιστοίχησης των πληροφοριών που τηρούνται στα πληροφοριακά συστήματα
 των ακαδημαϊκών ιδρυμάτων για τα φυσικά πρόσωπα με τον ΑΜΚΑ τους, όπως τηρείται
 από την [ΗΔΙΚΑ][], δίνεται η δυνατότητα για καλύτερη διαλειτουργικότητα των
@@ -132,17 +132,17 @@ JSON-RPC κάνοντας χρήση της γλώσσας Perl. Υποθέτο�
 
     TODO
 
- [AMKA]: http://amka.gr/
- [JSON-RPC]: http://jsonrpc.org/
- [ΗΔΙΚΑ]: http://www.idika.gr
- [REST]: http://wikipedia.org/wiki/REST
- [Academic ID]: /apis/academicid/
- [amka-rest-doc]: http://docs.amkaservices.apiary.io/
- [amka-jsonrpc-doc]: https://github.com/gunet/amka-services-spec/blob/master/docs/jsonrpc.md
- [specsrepo]: http://github.com/gunet/amka-services-specs/
- [jsonrpc]: http://www.wikipedia.org/wiki/JSON-RPC
- [jsonrpcspec]: http://www.jsonrpc.org/specification
- [JSON]: http://www.ietf.org/rfc/rfc4627.txt
+ [AMKA]: http://amka.gr/ "Αριθμός μητρώου κοινωνικών ασφαλίσεων"
+ [JSON-RPC]: http://jsonrpc.org/ "κεντρική σελίδα για τοJSON-RPC"
+ [ΗΔΙΚΑ]: http://www.idika.gr "ΗΔΙΚΑ: Ηλεκτρονική Διακυβέρνηση Κοινωνικής Ασφάλισης"
+ [REST]: http://wikipedia.org/wiki/REST "Representational State Transfer (Wikipedia)"
+ [Academic ID]: /apis/academicid/ "GUNet: υπηρεσία AcademicID"
+ [amka-rest-doc]: http://docs.amkaservices.apiary.io/ "Τεκμηρίωση διεπαφής REST για την υπηρεσία AMKA"
+ [amka-jsonrpc-doc]: https://github.com/gunet/amka-services-spec/blob/master/docs/jsonrpc.md "Τεκμηρίωση διεπαφής JSON-RPC για την υπηρεσία AMKA"
+ [specsrepo]: http://github.com/gunet/amka-services-specs/ "Προδιαγραφές για τα API της υπηρεσίας ΑΜΚΑ"
+ [jsonrpcspec]: http://www.jsonrpc.org/specification "Προδιαγραφές για την έκδοση 2.0 του JSON-RPC"
+ [JSON]: http://www.ietf.org/rfc/rfc4627.txt "RFC4627: Javascript Object Notation"
+ [GUNet]: http://gunet.gr "Ακαδημαϊκό διαδίκτυο (GUNet)"
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
