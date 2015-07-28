@@ -5,6 +5,9 @@ title: "Τεκμηρίωση των Web APIs της GUNet"
 subheadline: "Ενημερωθείτε και κάντε χρήση των APIs"
 header:
    image_fullwidth: "unsplash_windows_maselskis.jpg"
+image:
+    thumb:  amka_splash.png
+    homepage: amka_splash.png
 permalink: "/apis/"
 ---
 <ul>
